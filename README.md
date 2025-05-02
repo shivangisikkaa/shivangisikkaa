@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **making myself better**
 
-- 🌱 I’m currently learning **Advanced React.js, Docker, and RESTful API integrations to enhance my full-stack development skills.**
+- 🌱 I’m currently learning Next js,Typescript , and RESTful API integrations to enhance my development skills.**
 
-- 💬 Ask me about **Frontend & Full-Stack Development, Hackathons, and Problem-Solving. 🚀**
+- 💬 Ask me about **Frontend & MERN STACK Development, Hackathons, and Problem-Solving. 🚀**
 
 - 📫 How to reach me **shivangisikka611@gmail.com**
 
